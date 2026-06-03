@@ -64,3 +64,9 @@ Por favor revisa también:
 - [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
 - [SECURITY.md](./SECURITY.md)
 - [GOVERNANCE.md](./GOVERNANCE.md)
+
+## ¿Por dónde empezar? (Mejoras propuestas)
+
+Si quieres contribuir al proyecto pero no sabes por dónde empezar, aquí tienes algunas mejoras planificadas en las que puedes trabajar:
+
+- **Migrar la landing page a Astro:** Buscamos mejorar el rendimiento y el SEO del sitio principal. Si tienes experiencia con Astro, esta tarea es para ti.
